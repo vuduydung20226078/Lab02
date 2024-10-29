@@ -1,0 +1,2 @@
+Trong java, có thể tọ nhiều phương thưc cho một lớp (constructor overloading) với điều kiện là mỗi constructor có danh sách tham số khác nhau. Điều này có nghĩa là không thể tạo hai constructor có cùng tên mà có cùng kiểu tham số (bao gồm cả thứ tự của các tham số)
+Kết luận: Có thể tạo nhiều constructor cho lớp DigitalVideoDisc, miễn là chúng có danh sách tham số khác nhau. Điều này cho phép khởi tạo đối tượng DigitalVideoDisc một cách linh hoạt hơn, tùy thuộc vào thông tin mà ta có sẵn tại thời điểm tạo đối tượng.
